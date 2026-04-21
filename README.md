@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **seshu1729/seshu1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Seshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seshu1729&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshu1729&layout=compact&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=seshu1729&color=gray)
